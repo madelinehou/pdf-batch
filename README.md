@@ -1,2 +1,2 @@
 # pdf-batch
-A batch file that reduces repetitive clicking when opening/closing/renaming/moving pdf files.
+Used to help process pdfs, transferring them from a "current" to a "completed" folder. Originally created to handle scanned invoice objections.
