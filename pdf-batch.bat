@@ -46,7 +46,7 @@ FOR %%F IN (*.pdf) DO (
 )
 :end
 
-REN %first% %file%
+REN "%first%" %file%
 START /HIGH %file%
 
 :empty
